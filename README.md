@@ -1,27 +1,49 @@
-# Front end - wegodevform
+# Back-end - Wegodev Form (Google Form Alternative)
 
-## Build Setup
+## Deskripsi
+A custom web application that allows users to easily create, share, and manage online surveys and forms.
+
+Similar to Google Form, real-time response collection. Built with Vue, Node.js/Express and MongoDB for scalability and performance.
+
+This is the Back-end source code, the Front-end Repository is available [here](https://github.com/adamalfiansyah/wegodevform-front-end).
+
+### Build Setup
 
 ```bash
 # install dependencies
 $ npm install
 
-# di localhost jalankan
+# run
 $ npm run start
 ```
 
-## Deskripsi
+### env file
 
-### `env file`
+Rename sample.env to .env, then adjust the settings according to your PC/server.
 
-Rename `sample.env` menjadi `.env`, kemudian sesuaikan settingan sesuai dengan pc/server kamu
+### Courses
 
-### `courses`
+To learn how to build the WegodevForm application from scratch, you can follow the course on wegodev.com.
 
-Untuk belajar membuat aplikasi wegodevform dari awal kamu dapat mengikuti course di [wegodev.com](https://wegodev.com) 
+### Features
 
-### `download`
+#### Smart Auto Save
 
-front end wegodevform [download](https://github.com/wegodev-indonesia/wegodevform-front-end)
+![Smart Auto Save](https://wegodev.com/_ipx/contents/wegodevform-autosave.gif)
 
-wegodev.com
+#### Dynamic fields with customizable types (text, checkbox, or radio)
+
+![Dynamic fields with customizable types (text, checkbox, or radio)](https://wegodev.com/_ipx/contents/wegodevform-create-question.gif)
+
+#### Response list displaying user answers
+
+![Response list](https://wegodev.com/_ipx/contents/wegodevform-list.gif)
+
+#### Summary of user responses
+
+![download](https://wegodev.com/_ipx/contents/wegodevform-summary.gif)
+
+#### Invite and Visibility
+Invite users via email and set the form to be either public (accessible by anyone) or private (restricted to invited users)
+
+![Invite and Visibility](https://wegodev.com/_ipx/contents/wegodevform-invite-and-visibility.gif)
