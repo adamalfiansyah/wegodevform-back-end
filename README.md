@@ -41,7 +41,7 @@ To learn how to build the WegodevForm application from scratch, you can follow t
 
 #### Summary of user responses
 
-![download](https://wegodev.com/_ipx/contents/wegodevform-summary.gif)
+![Summary of user responses](https://wegodev.com/_ipx/contents/wegodevform-summary.gif)
 
 #### Invite and Visibility
 Invite users via email and set the form to be either public (accessible by anyone) or private (restricted to invited users)
