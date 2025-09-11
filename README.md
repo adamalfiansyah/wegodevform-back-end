@@ -1,6 +1,6 @@
 # Back-end - Wegodev Form (Google Form Alternative)
 
-## Deskripsi
+## Description
 A custom web application that allows users to easily create, share, and manage online surveys and forms.
 
 Similar to Google Form, real-time response collection. Built with Vue, Node.js/Express and MongoDB for scalability and performance.
